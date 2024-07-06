@@ -5,7 +5,8 @@ This repository contains links to example apps demonstrating features, functiona
 # Flutter Example Apps (Source Code)
 
 1. https://github.com/kwe92/Workout-App
-2. https://github.com/kwe92/FSA-Journal-App
+2. https://github.com/kwe92/Travel-App
+3. https://github.com/kwe92/FSA-Journal-App
 5. https://github.com/kwe92/Chatte-App
 6. https://github.com/kwe92/Todo-App-Flutter-Go
 7. https://github.com/kwe92/Todo-App-Go-Backend
