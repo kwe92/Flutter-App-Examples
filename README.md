@@ -11,7 +11,7 @@ This repository contains links to example apps demonstrating features, functiona
 5. https://github.com/kwe92/Chatte-App
 6. https://github.com/kwe92/Todo-App-Flutter-Go
 7. https://github.com/kwe92/Todo-App-Go-Backend
-8. 6. https://github.com/kwe92/Anime-Meme-Generator
+8. https://github.com/kwe92/Anime-Meme-Generator
 9. [Anime-Quotes-App-Flutter](https://github.com/kwe92/Anime-Quotes-App-Flutter)
 10. https://github.com/kwe92/Calculator-App-Flutter
 11. https://github.com/kwe92/Flutter-Widgets
