@@ -16,4 +16,5 @@ This repository contains links to example apps demonstrating features, functiona
 10. https://github.com/kwe92/Chatte-App
 11. https://github.com/kwe92/Flutter-Widgets
 12. https://github.com/kwe92/Plaid-Example
+13. https://github.com/kwe92/Flutter-Fragment-Shaders-v2/blob/main/README.md
 
